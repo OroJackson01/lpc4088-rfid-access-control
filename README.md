@@ -84,7 +84,7 @@ Embedded **RFID-based access control system** developed on the **LPC4088 Develop
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                      main_wifi.c                        │
+│                      main_final.c                       │
 │          (Application logic / Lógica de aplicación)     │
 └──────────────┬───────────────────────┬──────────────────┘
                │                       │
